@@ -22,6 +22,8 @@ The logistics dataset contains inconsistencies in delivery timelines, shipment m
 
   * Delivery delay
   * Delivery status
+  * Cost Per kg and Total cost
+  * Delay Percentage
     
 * Applied grouping and aggregation techniques to analyze patterns
 * Built visualizations to understand distributions and trends
