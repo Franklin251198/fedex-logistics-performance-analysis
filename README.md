@@ -107,7 +107,7 @@ The logistics dataset contains inconsistencies in delivery timelines, shipment m
 
 1. Clone the repository
 
-git clone https://github.com/Franklin251198/fedex-logistics-performance-analysis
+git clone https://github.com/Franklin251198/fedex-logistics-performance-analysis.git
 
 2. Open Jupyter Notebook
 
