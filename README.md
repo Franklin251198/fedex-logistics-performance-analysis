@@ -113,7 +113,7 @@ The goal is to identify operational inefficiencies and provide actionable busine
 
 1. Clone the repository
 
-git clone https://github.com/Franklin251198/logistics-delivery-analysis.git
+git clone https://github.com/Franklin251198/fedex-logistics-performance-analysis
 
 2. Open Jupyter Notebook
 
