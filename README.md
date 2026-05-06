@@ -96,12 +96,6 @@ The logistics dataset contains inconsistencies in delivery timelines, shipment m
 * Develop a predictive model to forecast delivery delays
 * Automate the data pipeline using tools like Airflow
 
----
-
-
-
-
-
 
 ---
 
@@ -116,15 +110,6 @@ git clone https://github.com/Franklin251198/fedex-logistics-performance-analysis
 
 3. Run `EDA_Project.ipynb`
 
----
-
-## 📌 Future Improvements
-
-- Add Power BI Dashboard
-- Build predictive model for delivery delays
-- Optimize shipment mode selection using ML
-
----
 
 ## 🤝 Author
 
