@@ -114,7 +114,7 @@ git clone https://github.com/Franklin251198/fedex-logistics-performance-analysis
 ## 🤝 Author
 
 Franklin Mathias  
-Aspiring Data Analyst | Data Science Student  
+Data Analyst |
 
 ---
 
